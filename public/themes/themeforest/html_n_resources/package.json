@@ -23,7 +23,7 @@
     "gulp-livereload": "^4.0.1",
     "gulp-livereload-2": "^3.8.1",
     "livereload": "^0.7.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.5.0"
   }
 }
